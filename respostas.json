@@ -1,106 +1,370 @@
 [
   {
     "Id": 1,
-    "Texto": "duas crian�as albinas de 8 anos."
+    "Texto": "Duas crianças albinas de 8 anos."
   },
   {
     "Id": 2,
-    "Texto": "o Avi�o que derrubou as torres g�meas."
+    "Texto": "O avião que derrubou as torres gêmeas."
   },
   {
     "Id": 3,
-    "Texto": "um Galo de rinha."
+    "Texto": "Um galo de rinha."
   },
   {
     "Id": 4,
-    "Texto": "o editor do portal Zacarias."
+    "Texto": "O editor do portal Zacarias."
   },
   {
     "Id": 5,
-    "Texto": "o v�deo do Bora Bill."
+    "Texto": "O vídeo do Bora Bill."
   },
   {
     "Id": 6,
-    "Texto": "livro de autoajuda do Pablo Mar�al."
+    "Texto": "Livro de autoajuda do Pablo Marçal."
   },
   {
     "Id": 7,
-    "Texto": "massacre do Carandiru."
+    "Texto": "Massacre do Carandiru."
   },
   {
     "Id": 8,
-    "Texto": "um velho com disfun��o er�til."
+    "Texto": "Um velho com disfunção erétil."
   },
   {
     "Id": 9,
-    "Texto": "Bluez�o no modo prime."
+    "Texto": "Bluezão no modo Prime."
   },
   {
     "Id": 10,
-    "Texto": "um grupo de nudista."
+    "Texto": "Um grupo de nudistas."
   },
   {
     "Id": 11,
-    "Texto": "edit do Neymar no Santos."
+    "Texto": "Edit do Neymar no Santos."
   },
   {
     "Id": 12,
-    "Texto": "dois idosos brigando."
+    "Texto": "Dois idosos brigando."
   },
   {
     "Id": 13,
-    "Texto": "3kg 269g de coca�na."
+    "Texto": "3kg 269g de cocaína."
   },
   {
     "Id": 14,
-    "Texto": "orgia em fam�lia."
+    "Texto": "Orgia em família."
   },
   {
     "Id": 15,
-    "Texto": "um suposit�rio."
+    "Texto": "Um supositório."
   },
   {
     "Id": 16,
-    "Texto": "cidad�o de bem."
+    "Texto": "Cidadão de bem."
   },
   {
     "Id": 17,
-    "Texto": "a ponta de um baseado."
+    "Texto": "A ponta de um baseado."
   },
   {
     "Id": 18,
-    "Texto": "um argentino aleijado."
+    "Texto": "Um argentino aleijado."
   },
   {
     "Id": 19,
-    "Texto": "a dura e triste realidade."
+    "Texto": "A dura e triste realidade."
   },
   {
     "Id": 20,
-    "Texto": "operar a fimose adulta."
+    "Texto": "Operar a fimose adulta."
   },
   {
     "Id": 21,
-    "Texto": "pegar o �nibus errado."
+    "Texto": "Pegar o ônibus errado."
   },
   {
     "Id": 22,
-    "Texto": "mamar um mendigo."
+    "Texto": "Mamar um mendigo."
   },
   {
     "Id": 23,
-    "Texto": "acordar cagado."
+    "Texto": "Acordar cagado."
   },
   {
     "Id": 24,
-    "Texto": "ter namorado com a J�lia."
+    "Texto": "Ter namorado com a Júlia."
   },
   {
     "Id": 25,
-    "Texto": "o bigodinho do Hitler."
+    "Texto": "O bigodinho do Hitler."
   },
   {
     "Id": 26,
-    "Texto": "um cara chamado Jacinto Pinto."
+    "Texto": "Um cara chamado Jacinto Pinto."
+  },
+  {
+    "Id": 27,
+    "Texto": "Lixão de fraldas radioativas."
+  },
+  {
+    "Id": 28,
+    "Texto": "Brad Pitt."
+  },
+  {
+    "Id": 29,
+    "Texto": "Uma poça de mijo."
+  },
+  {
+    "Id": 30,
+    "Texto": "Ver a aluna gostosa e burra."
+  },
+  {
+    "Id": 31,
+    "Texto": "Calcinha da Hello Kitty."
+  },
+  {
+    "Id": 32,
+    "Texto": "Traje do Ku Klux Klan."
+  },
+  {
+    "Id": 33,
+    "Texto": "Uniforme do Rock Lee."
+  },
+  {
+    "Id": 34,
+    "Texto": "Tráfico de urânio."
+  },
+  {
+    "Id": 35,
+    "Texto": "Jogo do bicho."
+  },
+  {
+    "Id": 36,
+    "Texto": "Banheiro químico."
+  },
+  {
+    "Id": 37,
+    "Texto": "Lamber uma tampa de vaso."
+  },
+  {
+    "Id": 38,
+    "Texto": "Coringa de renda."
+  },
+  {
+    "Id": 39,
+    "Texto": "Roupa de latex."
+  },
+  {
+    "Id": 40,
+    "Texto": "Tadalafila."
+  },
+  {
+    "Id": 41,
+    "Texto": "Grupo de caminhoneiros que não dormem há 3 dias."
+  },
+  {
+    "Id": 42,
+    "Texto": "Roblox."
+  },
+  {
+    "Id": 43,
+    "Texto": "Criação de facções criminosas."
+  },
+  {
+    "Id": 44,
+    "Texto": "Xarope de pasta base."
+  },
+  {
+    "Id": 45,
+    "Texto": "Loló."
+  },
+  {
+    "Id": 46,
+    "Texto": "Grupo de favelados que falam: 'Levei vantagem.'"
+  },
+  {
+    "Id": 47,
+    "Texto": "Grupo Terrorista."
+  },
+  {
+    "Id": 48,
+    "Texto": "Ninfomaníaca."
+  },
+  {
+    "Id": 49,
+    "Texto": "Belle Belinha."
+  },
+  {
+    "Id": 50,
+    "Texto": "Tráfico humano."
+  },
+  {
+    "Id": 51,
+    "Texto": "Negociamento de primatas."
+  },
+  {
+    "Id": 52,
+    "Texto": "Therians."
+  },
+  {
+    "Id": 53,
+    "Texto": "Mães solteiras."
+  },
+  {
+    "Id": 54,
+    "Texto": "Como a Raluca é inocente."
+  },
+  {
+    "Id": 55,
+    "Texto": "Furry."
+  },
+  {
+    "Id": 56,
+    "Texto": "Minecraft pirata."
+  },
+  {
+    "Id": 57,
+    "Texto": "Minecraft original."
+  },
+  {
+    "Id": 58,
+    "Texto": "Duelo de cadeirantes."
+  },
+  {
+    "Id": 59,
+    "Texto": "Roma Antiga."
+  },
+  {
+    "Id": 60,
+    "Texto": "Tomando cerveja e picanha."
+  },
+  {
+    "Id": 61,
+    "Texto": "Vídeo do Lula comendo abóbora."
+  },
+  {
+    "Id": 62,
+    "Texto": "Um par de meia furado por um tiro de 38."
+  },
+  {
+    "Id": 63,
+    "Texto": "CD do GTA Brasil."
+  },
+  {
+    "Id": 64,
+    "Texto": "Encoxar a vó."
+  },
+  {
+    "Id": 65,
+    "Texto": "Fotografar crianças na praia."
+  },
+  {
+    "Id": 66,
+    "Texto": "Uma van de doces suspeita."
+  },
+  {
+    "Id": 67,
+    "Texto": "Saber o valor de um rim infantil."
+  },
+  {
+    "Id": 68,
+    "Texto": "Minha ex."
+  },
+  {
+    "Id": 69,
+    "Texto": "Um vídeo da minha mãe no XVIDEOS."
+  },
+  {
+    "Id": 70,
+    "Texto": "Melanina."
+  },
+  {
+    "Id": 71,
+    "Texto": "Rotina CLT."
+  },
+  {
+    "Id": 72,
+    "Texto": "Carteira de trabalho."
+  },
+  {
+    "Id": 73,
+    "Texto": "Tortura de pessoas PCD."
+  },
+  {
+    "Id": 74,
+    "Texto": "Atropelamento proposital."
+  },
+  {
+    "Id": 75,
+    "Texto": "Beber e dirigir."
+  },
+  {
+    "Id": 76,
+    "Texto": "Amor e afeto."
+  },
+  {
+    "Id": 77,
+    "Texto": "Uma mulher reconhecer suas obrigações."
+  },
+  {
+    "Id": 78,
+    "Texto": "Piercing no pênis."
+  },
+  {
+    "Id": 79,
+    "Texto": "Vasectomia."
+  },
+  {
+    "Id": 80,
+    "Texto": "12h de ranked no LoL."
+  },
+  {
+    "Id": 81,
+    "Texto": "2 anúncios seguidos do YouTube."
+  },
+  {
+    "Id": 82,
+    "Texto": "Xicote no lombo."
+  },
+  {
+    "Id": 83,
+    "Texto": "Bala perdida."
+  },
+  {
+    "Id": 84,
+    "Texto": "Música do Manoel Gomes."
+  },
+  {
+    "Id": 85,
+    "Texto": "Gás mostarda."
+  },
+  {
+    "Id": 86,
+    "Texto": "9,5 dedos."
+  },
+  {
+    "Id": 87,
+    "Texto": "Ter escolhido a cadeira de frente pro bolo."
+  },
+  {
+    "Id": 88,
+    "Texto": "Tomar um tiro no pé."
+  },
+  {
+    "Id": 89,
+    "Texto": "Zoar um afrodescendente chamando o mesmo de Saci-Pererê, por ter uma perna só."
+  },
+  {
+    "Id": 90,
+    "Texto": "O valor do Bitcoin em 2010."
+  },
+  {
+    "Id": 91,
+    "Texto": "Uma vaga no LinkedIn."
+  },
+  {
+    "Id": 92,
+    "Texto": "Um ventilador com a pá quebrada."
   }
 ]
